@@ -43,7 +43,7 @@ export default function HomePage() {
               <div className="flex items-center">
                 <a href="tel:3525551234" className="flex items-center gap-2 text-xl font-bold text-red-600">
                   <Phone className="h-5 w-5" />
-                  352-634-8211
+                  708-299-5225
                 </a>
               </div>
             </div>
@@ -52,7 +52,7 @@ export default function HomePage() {
             <div className="md:hidden flex items-center gap-4 z-20">
               <a href="tel:3525551234" className="flex items-center gap-1 text-lg font-bold text-red-600">
                 <Phone className="h-5 w-5" />
-                <span className="sr-only sm:not-sr-only">352-555-1234</span>
+                <span className="sr-only sm:not-sr-only">708-299-5225</span>
               </a>
               <button
                 onClick={toggleMobileMenu}
@@ -320,7 +320,7 @@ export default function HomePage() {
                   className="font-bold px-6 md:px-8 border-white hover:bg-white hover:text-black text-black bg-green-300"
                   asChild
                 >
-                  <a href="tel:3525551234">CALL 352-634-8211</a>
+                  <a href="tel:7082995225">CALL 708-299-5225</a>
                 </Button>
               </div>
             </div>
