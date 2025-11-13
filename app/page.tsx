@@ -340,13 +340,13 @@ export default function HomePage() {
                 <h3 className="font-bold text-lg mb-4">Contact</h3>
                 <p className="text-muted-foreground text-sm mb-2">
                   Phone:{" "}
-                  <a href="tel:3525551234" className="hover:text-primary">
-                    352-634-8211
+                  <a href="tel:7082995225" className="hover:text-primary">
+                    708-299-5225
                   </a>
                 </p>
                 <p className="text-muted-foreground text-sm">
                   Email:{" "}
-                  <a href="mailto:info@sellmyhouseocala.com" className="hover:text-primary">
+                  <a href="mailto:jack@sbihomes.com" className="hover:text-primary">
                     jack@sellmyhouseocala.com
                   </a>
                 </p>
